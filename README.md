@@ -10,12 +10,12 @@
 
 ## i'm a nice buddy \o/
 
-|          	|         	|        	|
-|------------------------	|---------------	| -
+|          	|         	    |  	
+|------------------------	|---------------|
 | **Birthday :**         	| 26/05       	|        	
 | **Favorite color :**   	| blue      	|        	
 | **Favorite food :**    	| stuffed eggplants 	|        	
-| **Pineapple on pizza :** 	|<ul><li>[x] Yes</li><li>[ ] No</li></ul>	|
+| **Pineapple on pizza :** 	|<ul><li>[x] Yes</li><li>[ ] No</li><ul>	|
 
 ## Hobbies
 
